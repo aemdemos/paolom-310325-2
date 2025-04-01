@@ -1,0 +1,2265 @@
+{
+  "originUrl": "https://www.watercare.co.nz",
+  "lastCrawled": "https://www.watercare.co.nz/",
+  "urls": [
+    {
+      "url": "https://www.watercare.co.nz/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/about-works-over",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/about-works-over/accessing-our-wastewater-network",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/about-works-over/apply-for-works-over-approval",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/about-works-over/working-near-or-over-our-assets",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/compliance",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/compliance/certificate-of-acceptance",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/compliance/compliance-statements",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/compliance/other-activities-that-need-approval",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/connections",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/connections/apply-for-a-commercial-connection",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/connections/apply-for-a-fire-sprinkler",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/connections/apply-for-a-residential-connection",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/connections/apply-for-a-residential-connection-in-Clevedon",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/connections/apply-for-an-irrigation-meter",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/connections/change-a-connection",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/connections/complex-wastewater-connections",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/connections/connecting-wastewater-pipes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/consents",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/consultation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/consultation/growth-constraints-in-hibiscus-coast",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/consultation/growth-constraints-in-warkworth",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/consultation/growth-constraints-in-wellsford-and-te-hana",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/consultation/network-capacity-in-auckland",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/tools-fees-and-resources",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/tools-fees-and-resources/engineering-standards-framework",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/tools-fees-and-resources/engineering-standards-framework/asset-recording",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/tools-fees-and-resources/engineering-standards-framework/electrical-standards",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/tools-fees-and-resources/engineering-standards-framework/guidance-notes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/tools-fees-and-resources/engineering-standards-framework/material-supply",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/tools-fees-and-resources/engineering-standards-framework/standard-review-form",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/tools-fees-and-resources/engineering-standards-framework/wastewater-network-standards",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/tools-fees-and-resources/engineering-standards-framework/wastewater-transmission-standards",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/tools-fees-and-resources/engineering-standards-framework/wastewater-treatment-plants",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/tools-fees-and-resources/engineering-standards-framework/water-network-standards",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/tools-fees-and-resources/engineering-standards-framework/water-transmissions-standards",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/tools-fees-and-resources/engineering-standards-framework/water-treatment-plant-standards",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/tools-fees-and-resources/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/tools-fees-and-resources/fees-and-charges",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/tools-fees-and-resources/forms",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/tools-fees-and-resources/gis-maps",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/tools-fees-and-resources/infrastructure-growth-charge",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/apply-for-a-leak-allowance",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/apply-for-a-wastewater-audit",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/how-commercial-charges-work",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/how-to-read-my-commercial-bill",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/pay-a-bill",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/request-a-refund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/use-our-app",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/use-our-app/mobile-app-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/use-our-app/mobile-app-terms",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/what-you-can-do-in-myaccount",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/baseline-demand",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/business-tenants-moving-in-or-out",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/buying-or-selling-commercial-property",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/find-and-read-my-water-meter",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/boundary-backflow-device-test-certificate",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/bulk-water-supply",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/change-of-commercial-lease",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/change-of-commercial-lease-bills-remain-in-owners-name",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/change-of-commercial-wastewater-charges",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/commercial-wastewater-audit",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/direct-debit-authority",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/meter-reclassification",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/online-enquiry",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/property-access-for-meter-reading",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/provide-meter-reading",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/request-a-refund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/request-a-special-reading",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/water-meter-test-request",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/help-for-business-tenants",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/information-on-managing-your-account-for-mandarin-speakers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/trade-waste",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/trade-waste/commercial-cooking-fats",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/trade-waste/monitoring-trade-waste",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/trade-waste/trade-waste-agreements",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/trade-waste/trade-waste-classification",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/who-is-responsible",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/who-is-responsible-for-pipes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/learn",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/learn/what-not-to-flush",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/learn/why-is-water-so-important",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/learn/why-is-water-so-important/saving-water-at-your-workplace",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/11-3m-power-upgrade-boosts-resilience-at-our-waikato-water-treatment-plant",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/128m-upgrade-doubles-capacity-at-pukekohe-wastewater-treatment-plant",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/18-5b-investment-plan-for-next-20-years-unveiled",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/20m-citywide-watermain-renewal-programme-comes-to-south-auckland",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/400-million-plan-on-track-for-mt-roskill",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/49-million-wastewater-upgrade-underway-in-panmure",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/5-4m-takapuna-wastewater-pipe-upgrade-set-to-improve-beach-water-quality-1",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/a-boost-for-hibiscus-coast",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/aerial-inspection-reveals-impact-of-storm-on-auckland-s-western-dams",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/affordability-the-key-concern-when-setting-water-prices-for-2021",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/all-go-for-owairaka-and-wesley-watermain-project",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/amanda-the-mental-drain-of-living-through-a-flood",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/analyse-your-household-s-water-use-with-handy-online-tool",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/annual-infrastructure-investment-tips-over-1b-mark-for-first-time",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/application-submitted-to-designate-glenbrook-land-for-wastewater-treatment-plant",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/appointment-of-our-next-chief-executive",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/arsenic-levels-in-waikato-river-within-the-usual-range",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/auckland-boosts-water-storage-capacity-by-45-million-litres",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/auckland-council-announces-water-restrictions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/auckland-council-directed-to-fluoridate-onehunga-waiuku-water-supplies",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/auckland-council-to-change-water-restrictions-for-commercial-water-users",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/auckland-council-to-make-decision-on-water-restrictions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/auckland-s-biggest-water-project-finishes-construction",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/auckland-s-first-permanent-non-potable-tanker-filling-station-brought-into-service",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/auckland-s-first-permanent-non-potable-tanker-filling-station-brought-into-service-1",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/auckland-s-residential-water-restrictions-to-be-adjusted-for-summer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/auckland-s-very-dry-long-range-forecast-reinforces-need-to-save-water",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/auckland-s-water-and-wastewater-infrastructure-not-severely-impacted-by-last-night-s-weather",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/auckland-s-water-and-wastewater-prices-to-go-up-from-1-july",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/auckland-s-water-supply-in-strong-position-for-summer-with-dams-full-river-high",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/auckland-s-water-supply-receives-six-million-litre-a-day-boost",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/auckland-s-water-use-jumps-more-than-30-million-litres-a-day-in-a-week",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/auckland-smashes-previous-water-consumption-record",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/auckland-water-and-wastewater-prices-to-increase-by-9-5-from-1-july-2023",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/auckland-water-supply-in-strong-position-to-face-potentially-dry-summer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/aucklanders-achieve-target-water-savings-in-june",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/aucklanders-encouraged-to-keep-saving-water-as-dams-near-50-per-cent",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/aucklanders-encouraged-to-reduce-outdoor-water-use-as-dry-weather-persists",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/aucklanders-overwhelmingly-supportive-of-calls-to-save-water-as-drought-continues",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/aucklanders-set-new-water-consumption-record",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/aucklanders-tasked-with-recommending-city-s-future-water-source-in-nz-s-first-citizens-assembly",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/aucklanders-thanked-for-their-wise-water-use-as-dry-weather-looks-set-to-continue",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/aucklanders-urged-to-keep-saving-water-after-daylight-savings-kicks-in",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/aucklanders-urged-to-maintain-water-saving-habits-in-biggest-water-use-week-of-the-year",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/aucklanders-use-low-levels-of-water-in-peak-summer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/australasia-s-largest-giant-fibre-glass-liners-lifted-into-our-central-interceptor-shaft",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/big-cost-savings-to-be-realised-through-treatment-plant-rationalisation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/big-dry-continues-through-july",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/big-fix-by-our-crews-gets-water-flowing-again-in-swanson",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/board-of-inquiry-grants-consent-for-increased-waikato-river-allocation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/bore-saves-eden-park-11-million-litres-of-treated-tap-water-this-summer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/building-for-auckland-s-growing-water-needs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/careful-planning-and-auckland-weather-plays-ball-for-second-concrete-pour",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/cementing-the-foundation-for-wellsford-wastewater-treatment-plant-upgrades",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/central-interceptor-extension-proposed-to-clean-up-city-fringe-beaches",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/central-interceptor-micro-tunnel-boring-machine-finishes-second-drive",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/central-interceptor-project-budget-increase",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/central-interceptor-reroutes-link-sewer-to-avoid-community-disruption-and-reduce-emissions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/central-interceptor-s-micro-tunnel-boring-machine-breaks-through-for-third-time",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/central-interceptor-tunnel-boring-machine-begins-historic-tunnelling-under-manukau-harbour",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/central-interceptor-tunnel-boring-machine-gets-going-again",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/central-interceptor-tunnel-boring-machine-reaches-10-kilometre-milestone",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/central-interceptor-tunnel-boring-machine-reaches-5km-mark",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/central-interceptor-tunnelling-team-celebrates-first-breakthrough",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/chief-executive-dave-chambers-contract-extended",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/citizens-assembly-recommends-direct-recycled-water-for-auckland-s-future-water-source",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/clarks-beach-wastewater-treatment-plant-upgrade-passes-first-milestone",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/community-helps-shape-plans-for-new-water-treatment-plant-in-west-auckland",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/completed-major-bypass-project-to-reduce-overflows-into-waitemata-harbour",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/construction-work-begins-on-bypass-around-orakei-main-sewer-blockage",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/council-agrees-to-lift-remaining-water-restrictions-in-auckland",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/countdown-supermarkets-give-away-15-000-of-our-shower-timers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/crews-work-to-resolve-water-outage-affecting-customers-in-remuera-and-meadowbank",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/critical-milestone-for-huia-1",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/dams-approach-half-full-but-auckland-s-water-supply-is-stable",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/digging-deep-for-beach-haven-and-birkdale",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/diversity-and-inclusion-journey-strong-with-diversity-works-nomination",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/downpours-in-west-auckland-see-spike-in-dam-levels",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/dr-jon-lamonte-raising-the-bar-on-community-engagement",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/dramatic-rise-in-upper-nihotupu-dam-highlights-relative-size-of-each-water-storage-lake",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/drought-far-from-over",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/drought-plan-activated-but-water-restrictions-unlikely",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/drought-response-found-to-be-effective-overall-with-scope-for-improvement",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/early-results-from-harbour-monitoring-show-localised-impact-from-sinkhole-incident",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/east-and-bays-suburbs-benefit-from-our-20m-watermain-upgrade",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/eastern-interceptor-relining-work-underway",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/easy-does-it-we-re-encouraging-aucklanders-to-be-waterwise-this-summer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/eden-park-gets-helping-hand-to-save-16-million-litres-of-tap-water-per-year",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/emergency-powers-invoked-to-address-auckland-drought",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/enhancing-water-reliability-in-remuera",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/extended-dry-weather-prompts-calls-to-be-waterwise",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/extreme-weather-fails-to-break-60m-reservoir-project-s-stride",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/fertiliser-extracted-from-treated-wastewater-is-officially-launched",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/final-lap-for-kahika-wastewater-upgrade",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/finish-line-in-sight-for-our-flood-recovery-programme",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/finishing-line-in-sight-for-kahika-wastewater-upgrade",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/first-of-three-projects-ticked-off-mt-roskill-s-shovel-ready-list",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/flushing-to-help-with-discoloured-water-issues-in-onehunga",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/giant-tunnel-boring-machine-starts-digging-watercare-s-1-2-b-central-interceptor",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/godwits-return-to-watercare-coastal-walkway",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/going-back-2-basics-with-health-and-safety",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/goodbye-flies-swarming-midge-fly-problem-gone-from-mangere",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/goodbye-to-dunkirk-road",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/green-light-for-funding-for-point-erin-central-interceptor-tunnel-project-extension",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/ground-saturation-elevates-risk-of-wastewater-overflows-in-parts-of-central-auckland",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/healthier-waters-for-takapuna-beach",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/heavy-rain-needed-over-july-and-august-to-make-up-for-shortfall",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/helping-to-improve-stormwater-quality-at-takapuna-beach",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/hot-and-dry-forecast-causing-concern",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/hot-weather-leads-to-skyrocketing-water-demand",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/how-do-we-stack-up-in-gender-pay",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/huia-1-watermain-ninety-per-cent-complete",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/huia-1-watermain-works-begin-in-epsom",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/huia-water-treatment-plant-granted-resource-consent",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/hunua-ranges-regeneration-project-blooms",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/improving-our-gender-pay-gap-year-on-year",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/infrastructure-projects-rev-up-for-level-3",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/it-s-started-the-first-batch-of-concrete-is-poured-on-our-60m-new-reservoir",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/jon-lamonte-giving-certainty-in-an-uncertain-world",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/kelston-and-new-lynn-first-to-benefit-from-our-upgrades",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/kicking-off-20m-wastewater-upgrade-for-east-coast-bays",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/latest-weather-forecast-takes-auckland-water-supply-to-critical-status",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/long-awaited-consent-for-huia-water-treatment-plant-replacement-granted",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/mairangi-bay-pump-station-almost-complete",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/major-flood-recovery-works-near-completion-in-waitakere-ranges",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/major-infrastructure-upgrades-in-the-pipeline-for-wellsford",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/major-milestone-ticked-off-on-300-million-programme-to-improve-wastewater-services-in-warkworth-snells-beach-and-algies-bay",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/making-the-final-cut-redoubt-road-night-works-go-off-without-a-hitch",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/mangere-wastewater-treatment-plant-odour-update",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/midtown-auckland-to-receive-major-wastewater-upgrade",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/more-than-250-visitors-flock-to-pukekohe-water-treatment-plant-open-day",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/moves-to-improve-clarity-of-water-in-lower-western-dams-following-last-week-s-storm-event",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/muriwai-s-water-supply-impacted-by-cyclone-gabrielle",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/new-12-8m-boost-pump-station-on-hibiscus-coast-to-cater-for-growth",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/new-flushable-standard-aimed-at-protecting-our-pipes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/new-lynn-pump-station-an-upgrade-for-the-ages",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/new-papakura-treatment-plant-boosts-auckland-s-water-supply-by-12-million-litres",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/new-site-found-for-south-west-wastewater-treatment-plant",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/new-town-to-tank-water-service-for-whangaparaoa",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/new-water-treatment-plant-near-tuakau-about-to-go-live",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/new-watermain-to-be-connected-as-part-of-eastern-busway-project",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/new-website-hub-launched-for-mandarin-speakers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/new-zealand-s-first-floating-solar-array-unveiled",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/next-generation-wastewater-treatment-for-wellsford",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/nineteen-industry-partners-to-work-with-us-on-3-5b-asset-renewal-programme",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/no-cause-for-concern-after-slightly-elevated-levels-of-arsenic-detected-in-treated-waikato-river-water",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/no-major-impact-to-auckland-s-water-and-wastewater-services-from-yesterday-s-deluge",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/no-swim-warning-likely-to-be-in-place-for-at-least-10-days",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/notice-withdrawn-to-designate-glenbrook-land-for-wastewater-treatment-purposes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/on-the-tools-in-mt-roskill",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/onehunga-water-treatment-plant-closes-temporarily",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/onehunga-water-treatment-plant-increases-production-as-part-of-drought-response",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/open-day-to-happen-at-upgraded-pukekohe-water-treatment-plant",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/optimisation-programme-saves-7-million-litres-a-day-in-tamaki-makaurau",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/orakei-main-sewer-rehabilitation-stage-two-ramping-up-while-stage-one-nears-completion",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/our-13-2-million-solution-to-lift-long-term-no-swim-warning-at-judges-bay",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/our-2-4-billion-construction-partnership-with-fulton-hogan-and-fletcher-construction",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/our-6-3m-project-to-future-proof-glenbrook-s-water-services-nears-completion",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/our-boss-calls-for-relentless-focus-on-climate-change",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/our-central-interceptor-project-completes-tunnelling-for-first-link-sewer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/our-central-interceptor-tunnel-completes-undersea-crossing-of-manukau-harbour",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/our-central-interceptor-tunnel-project-reaches-halfway-mark",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/our-crews-attending-major-wastewater-pipe-blockage-at-tomo-site",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/our-team-and-kainga-ora-get-shovel-ready-for-mt-roskill",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/our-team-takes-home-the-social-impact-award-for-nga-kakau-paraha-maori-supplier-network",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/our-water-and-wastewater-prices-will-change-from-1-july-2019",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/over-500-houses-to-be-permanently-reconnected-to-wastewater-network",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/partnering-to-push-the-water-saving-message",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/pipeline-assessment-in-progress-in-mangere-east",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/pipeline-crew-rescues-five-ducklings",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/pipeline-replacement-gets-underway-on-remuera-road",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/pipeline-upgrades-underway-in-historic-land",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/piper-launches-into-her-next-instalment",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/piper-launches-into-her-third-and-final-leg",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/pipes-under-auckland-harbour-bridge-get-tlc",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/plans-to-invest-500m-for-growing-hibiscus-coast-community",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/popular-auckland-beaches-are-likely-to-have-better-water-quality-this-summer-as-conscientious-property-owners-respond-to-the-call-to-fix-their-faulty-plumbing",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/powhiri-welcomes-15-maori-businesses-into-the-fold",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/prices-to-increase-from-1-july-2024",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/proactive-leak-detection-prevents-loss-of-5-million-litres-a-day",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/pump-station-now-installed-in-judges-bay",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/rahui-over-waitemata-harbour-lifted-as-water-quality-improves",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/redoubt-rd-reservoir-roof-99-complete",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/reducing-overflows-and-protecting-local-waterways-in-bayview-and-beach-haven",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/residential-water-restrictions-ease-today-to-allow-controlled-hose-use",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/resilience-and-growth-at-the-heart-of-watercare-s-tamaki-upgrades",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/rolling-out-a-digital-water-meter-solution-to-better-service-commercial-properties",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/say-hi-to-piper-at-open-day",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/see-the-bigger-picture-at-mairangi-bay-pump-station-site-open-day",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/severe-drought-continues-to-bite",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/slip-clearing-and-pipe-repairs-in-waitakere-ranges-progressing-well-against-the-odds",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/smart-water-meter-rollout-begins",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/solid-progress-on-52-million-wastewater-upgrades",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/southern-half-of-our-1-6b-central-interceptor-wastewater-tunnel-goes-live",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/spider-digger-plays-critical-role-in-95m-growth-programme-in-central-auckland",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/steady-progress-continues-in-first-year-of-flood-recovery-1",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/strong-solution-to-protect-howick-waterways",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/submissions-open-on-plan-change-78-auckland-council-s-response-to-national-policy-statement-on-urban-development",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/tamaki-river-to-benefit-from-new-wastewater-pump-station",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/te-ahiwaru-hapuu-determined-to-turn-laundromat-into-business-success",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/te-reo-maori-e-book-launched",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/temporary-solution-in-place-to-prevent-overflows-after-pipe-breaks-deep-below-parnell-rose-gardens",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/thank-you-auckland-our-total-water-storage-has-reached-80-per-cent",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/the-search-is-on-for-contractors-to-partner-with-on-3-5b-asset-renewal-programme",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/three-stage-solution-for-judges-bay",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/titirangi-konini-residents-urged-to-reduce-their-water-use",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/top-tips-to-make-every-drop-count-as-we-face-a-dry-summer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/tracking-auckland-s-water-use-over-summer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/tree-protection-key-in-pump-station-upgrade",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/tunnel-boring-machine-breaks-through-for-final-time-to-complete-two-link-sewers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/tunnel-boring-machine-breaks-through-to-complete-16-2-kilometre-central-interceptor-tunnel",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/tunnel-boring-machine-hiwa-i-te-rangi-passes-three-quarter-mark-for-central-interceptor-tunnel",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/twin-pipelines-for-glenbrook-beach",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/two-more-water-suppliers-in-the-waikato-region-detect-slightly-elevated-arsenic-in-their-water-while-auckland-s-watercare-says-it-is-meeting-drinking-water-standards",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/university-signs-mou-with-us",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/update-on-auckland-s-storm-hit-water-and-wastewater-services",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/update-on-warkworth-s-wastewater-connections",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/upper-nihotupu-dam-100-years-old-and-still-going-strong",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/upper-nihotupu-dam-back-in-business-after-repairs-to-flood-damaged-watermain",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/waikato-eels-get-new-home-in-lower-nihotupu-dam",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/waikato-regional-council-grants-us-two-consents-for-waikato-river-water",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/waikato-regional-council-grants-us-two-consents-for-waikato-river-water-1",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/waikato-river-water-suppliers-achieve-compliance-with-arsenic-standards",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/wastewater-network-rehabilitation-project-underway-in-warkworth",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/water-and-wastewater-price-changes-effective-1-july-2018",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/water-and-wastewater-price-changes-from-1-july-2020",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/water-and-wastewater-prices-to-increase-from-1-july-2021",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/water-back-on-for-muriwai-tomorrow",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/water-restored-for-recently-returned-muriwai-customers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/water-treatment-plant-back-in-service-for-muriwai",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/watercare-and-waikato-tainui-kawenata-whakawhanaunga-update",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/watercare-caps-off-east-coast-bays-sewer-link",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/watercare-chooses-manuka-road-as-site-for-new-huia-water-treatment-plant",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/watercare-makes-solid-progress-on-3m-helensville-dam-upgrade",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/watercare-opens-award-winning-training-facility",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/watercare-selects-ghella-abergeldie-harker-joint-venture-to-move-forward-with-central-interceptor-project",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-activate-waikato-consent-contribute-2m-to-river-restoration",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-complete-17m-upgrade-at-helensville-wastewater-treatment-plant",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-confirm-a-solution-for-warkworth-pipeline-that-minimises-disruption-to-community",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-enlist-air-support-to-remove-wastewater-pipe-bridges-in-pt-england",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-extend-our-water-services-arrangement-with-waikato-district-council",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-get-green-light-for-5km-warkworth-snells-wastewater-pipeline",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-get-to-work-on-our-first-permanent-non-potable-water-tanker-filling-station-in-mangere",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-invite-40-aucklanders-to-recommend-the-region-s-future-water-source",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-launch-new-zealand-s-first-e-tipper-trucks-for-1-2b-central-interceptor-project",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-make-steady-progress-on-solution-to-harbour-overflows",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-make-steady-progress-on-solutions-to-pipe-blockage",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-make-steady-progress-on-wastewater-upgrades-for-warkworth",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-re-doubling-down-on-flood-recovery-efforts-around-western-dams",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-re-working-in-with-eastern-busway-plans",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-re-working-to-reinstate-flood-damaged-pukekohe-water-treatment-plant",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-sign-decade-long-deal-with-four-planning-design-partners",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-unveil-a-13-8-billion-plan-to-ensure-reliable-water-services",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-ve-brought-pukekohe-water-treatment-plant-back-into-service",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-ve-released-2023-2024-annual-report",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-ve-spent-more-than-40-million-to-prevent-overflows-in-auckland-s-east-coast-bays",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-welcome-independent-orakei-main-sewer-collapse-report-and-accept-recommendations",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/work-begins-on-wastewater-pump-station-in-mairangi-bay-reserve",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/work-begins-to-connect-pukekohe-east-reservoir-to-supply-network",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/work-on-warkworth-snells-wastewater-pipe-about-to-kick-off",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/work-to-begin-on-our-new-snells-beach-wastewater-treatment-plant",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/work-to-start-on-stage-2-of-22m-north-shore-wastewater-pipe",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/working-with-fire-and-emergency-to-save-millions-of-litres-of-water",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/world-s-1st-in-home-water-recycling-system-hydraloop-arrives-in-new-zealand",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/world-toilet-day-reminder-if-it-s-not-toilet-paper-pee-or-poo-it-doesn-t-belong-in-the-loo",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/mana-whenua",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/our-organisation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/our-organisation/customer-promise-standards-and-contract",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/our-organisation/governance-and-people",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/our-organisation/health-safety-and-wellbeing-for-contractors",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/our-organisation/information-for-suppliers-and-contractors",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/our-organisation/privacy-statement",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/our-organisation/terms-of-use",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/sustainability-and-community",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/sustainability-and-community/central-interceptor-sustainability",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/sustainability-and-community/trees-for-survival",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/sustainability-and-community/water-efficiency-plan",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/about-water-meters",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/about-water-meters/smart-meters",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/about-water-meters/town-to-tank-meters",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/about-water-meters/types-of-meters",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/about-water-meters/why-we-need-to-access-your-meter",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/alternative-water-solutions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/alternative-water-solutions/bores",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/alternative-water-solutions/bulk-water-supply",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/drinking-water",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/reports-and-publications",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/waikato-water",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/wastewater",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/wastewater/vacuum-pits",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/water-collection-treatment-and-monitoring",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/water-collection-treatment-and-monitoring/about-our-dams",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/water-collection-treatment-and-monitoring/backflow",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/water-collection-treatment-and-monitoring/groundwater-springs-and-rivers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/water-collection-treatment-and-monitoring/water-hardness",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/water-collection-treatment-and-monitoring/water-levels-of-the-dams",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-bridget-o'sullivan",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-chris-oord",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-edward-oxales",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-hugh-howard",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-jason-scharvi-coles",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-joe-gendall",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-joel-jeffries",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-ma-marriner",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-nicole-ahotaha",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-sally-jayne-lilo",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-suzanne-lucas",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/contact-us",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/contact-us/feedback-and-complaints",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/contact-us/feedback-and-complaints/complaints",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/contact-us/official-information-request",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages/groundwater-stormwater-and-waste",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages/how-to-check-for-leaks",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages/how-to-prevent-blockages-and-overflows",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages/how-we-manage-leaks-in-our-network",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages/how-we-manage-wastewater-overflows",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages/how-we-prioritise-and-repair-faults",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages/water-break-on-mountain-rd",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages/when-to-report-a-fault",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/help-and-support",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/help-and-support/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/help-and-support/outage",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/auckland-dam-levels",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/central-interceptor-consents-and-documents",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/planning-for-the-future",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/planning-for-the-future/beachlands-maraetai-and-whitford-communities",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/planning-for-the-future/helensville-and-parakai-communities",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/planning-for-the-future/metropolitan-servicing-strategy",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/planning-for-the-future/waiheke-community",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/avondale-and-waterview-wastewater-improvements-projects",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/beachlands-and-maraetai-wastewater-renewals",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/beachlands-wwtp-discharge-consent-renewal",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/central-interceptor",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/chelsea-bay-and-birkenhead-wastewater-upgrade",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/clarks-beach",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/east-coast-bays-link-sewer-upgrade-project",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/glen-innes-branch-sewer-upgrade",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/grey-lynn-and-westmere-wastewater-improvements-projects",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/herne-bay-wastewater-trunk-sewer-upgrade",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/huia-1-watermain-upgrade",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/huia-water-treatment-plant-replacement-project",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/judges-bay-wastewater-repair",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/kahika-wastewater-upgrade",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/midtown-wastewater-diversion",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/motions-catchment-improvements-project",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/muriwai-future-water-supply",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/orakei-main-sewer-repair-and-relining",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/otara-wastewater-capacity-upgrades",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/owairaka-and-wesley-water-upgrades",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/pukekohe-water-treatment-plant-rehabilitation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/south-west-wastewater-upgrade",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/south-west-wastewater-upgrade/south-west-wastewater-conveyance-waiuku-branch-sewer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/south-west-wastewater-upgrade/south-west-wastewater-discharge-consent",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/south-west-wastewater-upgrade/south-west-wastewater-treatment-plant-and-conveyance",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/south-west-wastewater-upgrade/south-west-wastewater-treatment-plant-designation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/takapu-street-wastewater-upgrade-project",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/waikowhai-water-pump-station-and-watermains",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/waiwera-water-and-wastewater-servicing-project",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/warkworth-wastewater-scheme",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/warkworth-wastewater-scheme/lucy-moore-memorial-park-wastewater-pump-station",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/warkworth-wastewater-scheme/snells-beach-wastewater-treatment-plant",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/warkworth-wastewater-scheme/warkworth-north-west-growth-servicing-pipeline",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/warkworth-wastewater-scheme/warkworth-to-snells-transfer-pipeline",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/wellsford-wastewater-treatment-plant-upgrade",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/whenuapai-and-redhills-wastewater-project",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/water-restrictions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/apply-for-a-leak-allowance",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/grant-access-to-your-account",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/higher-bill-than-usual",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/our-charges",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/pay-a-bill",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/pay-a-fixed-annual-charge",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/request-a-refund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/use-our-app",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/use-our-app/mobile-app-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/use-our-app/mobile-app-terms",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/what-you-can-do-in-myaccount",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/business-tenants-moving-in-or-out",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/find-and-read-my-water-meter",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/account-authorisation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/annual-wastewater-charge-opt-in-opt-out",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/change-of-commercial-lease",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/change-of-commercial-lease-bills-remain-in-owners-name",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/change-request",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/direct-debit-authority",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/meter-reading-support",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/online-enquiry",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/priority-assistance",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/property-access-for-meter-reading",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/request-a-refund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/special-reads-calculator",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/help-for-business-tenants",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/help-for-residential-tenants",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/info-on-managing-your-account-for-mandarin-speakers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/residential-tenants-moving-in-or-out",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/who-is-responsible",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/who-is-responsible-for-pipes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/learn",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/about-us",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/about-us/sustainability-and-community",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/apply-for-a-leak-allowance",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/grant-access-to-your-account",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/higher-bill-than-usual",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/how-residential-charges-work",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/how-to-read-my-residential-bill",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/pay-a-bill",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/request-a-refund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/use-our-app",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/use-our-app/mobile-app-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/use-our-app/mobile-app-terms",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/what-can-you-do-in-myaccount",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/billing-payment-and-accounts-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/buying-or-selling-a-house",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/financial-hardship",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/find-and-read-my-water-meter",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/forms",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/forms/account-authorisation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/forms/annual-wastewater-charge-opt-in-opt-out",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/forms/direct-debit-authority",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/forms/meter-reading-enquiry",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/forms/meter-reclassification",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/forms/moving-in-out",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/forms/notify-us-of-a-bereavement",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/forms/online-enquiry",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/forms/priority-assistance",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/forms/property-access-for-meter-reading",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/forms/request-a-refund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/forms/water-meter-test-request",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/help-for-tenants",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/information-on-managing-your-account-for-mandarin-speakers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/loss-of-a-loved-one",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/priority-assistance",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/wastewater-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/water-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/who-is-responsible",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/who-is-responsible-for-pipes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/free-water-education-lessons",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/freshwater-detectives-kit",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/how-to-read-your-downloaded-ebook",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/storybooks-for-kids",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/water-fun-for-our-tamariki",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/what-not-to-flush",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/why-is-water-so-important",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/why-is-water-so-important/saving-water-at-home",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/why-is-water-so-important/saving-water-at-your-workplace",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/why-is-water-so-important/saving-water-in-the-garden",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/solicitors",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/solicitors/forms",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/solicitors/forms/final-reading-request",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/solicitors/forms/notice-of-sale",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/wc",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/wc/bridgetosullivan",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/wc/oratia",
+      "source": "SITEMAPS"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": []
+}
