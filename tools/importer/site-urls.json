@@ -1,0 +1,863 @@
+{
+  "originUrl": "https://www.watercare.co.nz",
+  "lastCrawled": "https://www.watercare.co.nz/",
+  "urls": [
+    {
+      "url": "https://www.watercare.co.nz/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/about-works-over",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/about-works-over/accessing-our-wastewater-network",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/builders-and-developers/about-works-over/apply-for-works-over-approval",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/apply-for-a-leak-allowance",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/apply-for-a-wastewater-audit",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/how-commercial-charges-work",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/how-to-read-my-commercial-bill",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/pay-a-bill",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/request-a-refund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/use-our-app",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/use-our-app/mobile-app-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/use-our-app/mobile-app-terms",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/accounts/what-you-can-do-in-myaccount",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/baseline-demand",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/business-tenants-moving-in-or-out",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/buying-or-selling-commercial-property",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/find-and-read-my-water-meter",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/boundary-backflow-device-test-certificate",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/bulk-water-supply",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/change-of-commercial-lease",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/change-of-commercial-lease-bills-remain-in-owners-name",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/change-of-commercial-wastewater-charges",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/commercial-wastewater-audit",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/direct-debit-authority",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/meter-reclassification",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/online-enquiry",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/property-access-for-meter-reading",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/provide-meter-reading",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/request-a-refund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/request-a-special-reading",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/forms/water-meter-test-request",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/help-for-business-tenants",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/information-on-managing-your-account-for-mandarin-speakers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/trade-waste",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/trade-waste/commercial-cooking-fats",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/trade-waste/monitoring-trade-waste",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/trade-waste/trade-waste-agreements",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/trade-waste/trade-waste-classification",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/who-is-responsible",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/help-and-support/who-is-responsible-for-pipes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/learn",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/learn/what-not-to-flush",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/learn/why-is-water-so-important",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/business/learn/why-is-water-so-important/saving-water-at-your-workplace",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/11-3m-power-upgrade-boosts-resilience-at-our-waikato-water-treatment-plant",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-re-working-in-with-eastern-busway-plans",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-re-working-to-reinstate-flood-damaged-pukekohe-water-treatment-plant",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-sign-decade-long-deal-with-four-planning-design-partners",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-unveil-a-13-8-billion-plan-to-ensure-reliable-water-services",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-ve-brought-pukekohe-water-treatment-plant-back-into-service",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-ve-released-2023-2024-annual-report",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-ve-spent-more-than-40-million-to-prevent-overflows-in-auckland-s-east-coast-bays",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/latest-news-and-media/we-welcome-independent-orakei-main-sewer-collapse-report-and-accept-recommendations",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/mana-whenua",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/our-organisation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/our-organisation/customer-promise-standards-and-contract",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/our-organisation/governance-and-people",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/our-organisation/health-safety-and-wellbeing-for-contractors",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/our-organisation/information-for-suppliers-and-contractors",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/our-organisation/privacy-statement",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/our-organisation/terms-of-use",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/sustainability-and-community",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/sustainability-and-community/central-interceptor-sustainability",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/sustainability-and-community/trees-for-survival",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/sustainability-and-community/water-efficiency-plan",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/about-water-meters",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/about-water-meters/smart-meters",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/about-water-meters/town-to-tank-meters",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/about-water-meters/types-of-meters",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/about-water-meters/why-we-need-to-access-your-meter",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/alternative-water-solutions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/alternative-water-solutions/bores",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/alternative-water-solutions/bulk-water-supply",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/drinking-water",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/reports-and-publications",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/waikato-water",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/wastewater",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/wastewater/vacuum-pits",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/water-collection-treatment-and-monitoring",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/water-collection-treatment-and-monitoring/about-our-dams",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/water-collection-treatment-and-monitoring/backflow",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/water-collection-treatment-and-monitoring/groundwater-springs-and-rivers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/water-collection-treatment-and-monitoring/water-hardness",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/about-us/what-we-do/water-collection-treatment-and-monitoring/water-levels-of-the-dams",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-bridget-o'sullivan",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-chris-oord",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-edward-oxales",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-hugh-howard",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-jason-scharvi-coles",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-joe-gendall",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-joel-jeffries",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-ma-marriner",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-nicole-ahotaha",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-sally-jayne-lilo",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/careers/meet-our-people/day-in-the-life-of-suzanne-lucas",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/contact-us",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/contact-us/feedback-and-complaints",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/contact-us/feedback-and-complaints/complaints",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/contact-us/official-information-request",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages/groundwater-stormwater-and-waste",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages/how-to-check-for-leaks",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages/how-to-prevent-blockages-and-overflows",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages/how-we-manage-leaks-in-our-network",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages/how-we-manage-wastewater-overflows",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages/how-we-prioritise-and-repair-faults",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages/water-break-on-mountain-rd",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/faults-and-outages/when-to-report-a-fault",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/help-and-support",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/help-and-support/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/help-and-support/outage",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/auckland-dam-levels",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/central-interceptor-consents-and-documents",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/planning-for-the-future",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/planning-for-the-future/beachlands-maraetai-and-whitford-communities",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/planning-for-the-future/helensville-and-parakai-communities",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/planning-for-the-future/metropolitan-servicing-strategy",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/planning-for-the-future/waiheke-community",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/wellsford-wastewater-treatment-plant-upgrade",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/projects-around-auckland/whenuapai-and-redhills-wastewater-project",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/home/projects-and-updates/water-restrictions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/apply-for-a-leak-allowance",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/grant-access-to-your-account",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/higher-bill-than-usual",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/our-charges",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/pay-a-bill",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/pay-a-fixed-annual-charge",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/request-a-refund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/use-our-app",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/use-our-app/mobile-app-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/use-our-app/mobile-app-terms",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/accounts/what-you-can-do-in-myaccount",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/business-tenants-moving-in-or-out",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/find-and-read-my-water-meter",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/account-authorisation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/annual-wastewater-charge-opt-in-opt-out",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/change-of-commercial-lease",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/change-of-commercial-lease-bills-remain-in-owners-name",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/change-request",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/direct-debit-authority",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/meter-reading-support",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/online-enquiry",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/priority-assistance",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/property-access-for-meter-reading",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/request-a-refund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/forms/special-reads-calculator",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/help-for-business-tenants",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/help-for-residential-tenants",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/info-on-managing-your-account-for-mandarin-speakers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/residential-tenants-moving-in-or-out",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/who-is-responsible",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/help-and-support/who-is-responsible-for-pipes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/landlords-and-property-managers/learn",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/about-us",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/about-us/sustainability-and-community",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/apply-for-a-leak-allowance",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/grant-access-to-your-account",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/higher-bill-than-usual",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/how-residential-charges-work",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/how-to-read-my-residential-bill",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/pay-a-bill",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/request-a-refund",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/use-our-app",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/use-our-app/mobile-app-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/use-our-app/mobile-app-terms",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/accounts/what-can-you-do-in-myaccount",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/billing-payment-and-accounts-faqs",
+      "source": "SITEMAPS"
+    },
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/who-is-responsible",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/help-and-support/who-is-responsible-for-pipes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/free-water-education-lessons",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/freshwater-detectives-kit",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/how-to-read-your-downloaded-ebook",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/storybooks-for-kids",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/water-fun-for-our-tamariki",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/what-not-to-flush",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/why-is-water-so-important",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/why-is-water-so-important/saving-water-at-home",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/why-is-water-so-important/saving-water-at-your-workplace",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/residents/learn/why-is-water-so-important/saving-water-in-the-garden",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/solicitors",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/solicitors/forms",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/solicitors/forms/final-reading-request",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/solicitors/forms/notice-of-sale",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/wc",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/wc/bridgetosullivan",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.watercare.co.nz/wc/oratia",
+      "source": "SITEMAPS"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": []
+}
